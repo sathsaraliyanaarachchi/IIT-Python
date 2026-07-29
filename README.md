@@ -1,1 +1,1 @@
-This repository contain projects, practical and in-class notes that I have completed to increase my scope on python programming language in the **Professional Certification of Python Programming** course offerd by **Informatics Institute of Tecnology(IIT)**.
+This repository contain projects, practical and in-class notes that I have completed to increase my scope on python programming language in the **Professional Certification of Python Programming** course offered by **Informatics Institute of Tecnology(IIT)**.
